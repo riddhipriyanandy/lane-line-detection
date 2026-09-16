@@ -199,8 +199,5 @@ output on the included sample image.
 
 ## Screenshots
 
-Add your own before/after screenshots to the `screenshots/` folder.
-An example is already included:
-
 - `screenshots/sample_output.jpg` — Result on the included synthetic
   sample image (`input/test_road.jpg`), run with `--show-roi`.
